@@ -6,5 +6,5 @@
 :calendar: **Mas de 10 Años en el mundo de desarrollo web y tecnologias**
 
 ## ⚡: Actividad Reciente
-<!--recent-activity:start-->
-<!--recent-activity:last_update-->
+<!--recent_activity:start-->
+<!--recent_activity:last_update-->
