@@ -13,6 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - uses: gusmg90/github-activity-readme@master
+      - uses: gusmg90/README@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
